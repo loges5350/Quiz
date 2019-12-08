@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MyQuiz</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="correct_toast">Correct!!!</string>
+    <string name="incorrect_toast">Incorrect!!!</string>
+    <string name="action_settings">Settings</string>
+    <string name="question_one">The launch of Sputnik in 1957 inaugurated the space age.</string>
+    <string name="question_two">Coca-Cola originally contained cocaine.</string>
+    <string name="question_three">The biceps muscle in the upper arm is the strongest muscle in the human body.</string>
+    <string name="question_four">Milo was originally developed in Australia in 1934. First introduced as a nutritional supplement in Malaysia, it is a hit drink with both young and old.</string>
+    <string name="question_five">Elephants walk as quietly as cats.</string>
+    <string name="question_six">In Malaysia, orang utan conservation areas include the Semenggoh Wildlife Centre in Sarawak and the Sepilok Orang Utan Sanctuary in Sabah.</string>
+    <string name="question_seven">The Langkawi Cable Car takes visitors 708m above sea level and is on eof the steepest cable car rides on Earth</string>
+    <string name="question_eight">Wawasan 2020 is a Malaysian ideal introduced by former Prime Minister Tun Dr Mahathir Mohamad. It calls for a self-sufficient industrialised nation by the year 2020.</string>
+    <string name="question_nine">The "Ring of Fire" - where most volcanoes are located and most earthquakes occur - encircles the Pacific Ocean.</string>
+    <string name="question_ten">Number 77 in Roman numericals is represented as LXXVII</string>
+    <string name="question_eleven">Lightning never strikes in the same place twice</string>
+    <string name="question_twelve">If an earthworm is cut in half, both halves can regrow their body.</string>
+    <string name="question_thirteen">Adults have fewer bones than babies do.</string>
+    <string name="question_fourteen">Goldfish only have a memory of three seconds.</string>
+    <string name="question_fifteen">Drinking alcohol kills brain cells.</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">CHEAT!</string>
+    <string name="judgement_toast">Cheating is wrong.</string>
+</resources>
